@@ -1,2 +1,2 @@
-# Project class
-project sistem embeded
+# Project Embeded class
+Project Embeded System
